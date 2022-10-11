@@ -3,3 +3,9 @@
 //ECMAScript  es el conjunto de standares y reglas  en los que se va a basar la comunidad
 
 //TC39: Es un grupo de hackers, academicos y/o personas afines a la tecnologia que se encargan de las actualizaciones, bajo el mando de ECMA.
+
+//PLUGUINS RECOMENDADOS DE VSCODE
+//CodeRunner
+//Error Lens
+//Guides
+//JavaScript (ES6) code snippets
